@@ -25,10 +25,10 @@
                 "email": "rick@obregon.co",
                 "homepage": "http://obregonco"
         },
+        {
                 "name": "Nick Stallman",
                 "email": "nick@agentpoint.com",
                 "homepage": "http://www.agentpoint.com.au/"
-        {
         }
     ],
     "require": {
