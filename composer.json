@@ -1,5 +1,5 @@
 {
-    "name": "obregonco/backblaze-b2",
+    "name": "agentpoint/backblaze-b2",
     "description": "An SDK for working with B2 cloud storage.",
     "keywords": ["b2", "storage", "backblaze", "cloud", "filesystem", "backup", "backblaze-b2", "backblaze-api"],
     "homepage": "https://github.com/obregonco/backblaze-b2",
