@@ -10,6 +10,8 @@ This package will **cache authorization request** for 1 hour so that you won't r
 
 This version works with both master key and application key, and version 2 (look below).
 
+This fork of the [original library](https://github.com/obregonco/backblaze-b2) is modified by [Agentpoint](https://www.agentpoint.com.au/) to add Guzzle 7 support needed for Laravel 8.x
+
 ## Example
 
 This is just a short example, full examples to come on the wiki.
